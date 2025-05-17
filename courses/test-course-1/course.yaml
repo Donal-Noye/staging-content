@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/Donal-Noye/content-schema/refs/heads/main/schemas/course.schema.json
+id: "cmamwe12q000068s6c7bc9t86"
+title: "Название курсаааа"
+description: |
+  ## Описание курса в формате Markdown:
+  - Пункт 1
+  - Пункт 2
+  - Пункт 3
+  - Пункт [4](https://google.com)
+lessons:
+  - "lesson-1"
